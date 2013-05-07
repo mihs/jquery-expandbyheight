@@ -3,7 +3,7 @@ jquery-expandbyheight
 
 jQuery plugin that expands or collapses an element by looking at its HEIGHT, not number of characters.
 
-= Usage =
+# Usage #
 
 ```javascript
 $(".text").expandByHeight({
@@ -19,7 +19,7 @@ $(".text").expandByHeight({
 })
 ```
 
-= Credits =
+# Credits #
 
 * http://stackoverflow.com/questions/11408311/use-jquery-to-expand-collapse-text
 * https://github.com/kswedberg/jquery-expander
